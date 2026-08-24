@@ -38,3 +38,8 @@ hf_cache/
 .idea/
 .vscode/
 *.swp
+
+# Local archive & temp
+content/
+*.zip
+
